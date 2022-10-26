@@ -42,7 +42,7 @@ Processor duties of Windows Autopatch include ensuring appropriate confidentiali
 
 Windows Autopatch stores its data in the Azure data centers in the United States.
 
-Personal data obtained by Windows Autopatch and other services are required to keep the service operational. If a device is removed from Windows Autopatch, we keep personal data for a maximum of 30 days. For more information on data retention, see [Data retention, deletion, and destruction in Microsoft 365](/compliance/assurance/assurance-data-retention-deletion-and-destruction-overview).
+Data obtained by Windows Autopatch and other services are required to keep the service operational. If a device is removed from Windows Autopatch, we keep personal data for a maximum of 30 days. For more information on data retention, see [Data retention, deletion, and destruction in Microsoft 365](/compliance/assurance/assurance-data-retention-deletion-and-destruction-overview).
 
 Windows Autopatch Service Engineering Team is in the United States, India and Romania.
 
